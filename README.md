@@ -1,6 +1,6 @@
 # GitHAdventure-Works-Executive-Summary---Power-BI-Report
 
--- I have uploaded the poer BI file final project--
+-- I have uploaded the power BI file final project--
 
 
 **Project Overview: **
